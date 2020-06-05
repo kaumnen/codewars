@@ -5,7 +5,3 @@
 > ***Simple code***
 
 > ***Readable code***
-
-<h3>Getting Started</h3>
-
-    git clone https://github.com/komnen0v1c/codewars_python
