@@ -5,8 +5,8 @@ def snail(snail_map):
     first_row = 0
     first_column = 0
     
-    last_row = len(snail_map) - 1
-    last_column = len(snail_map[0]) - 1
+     last_row = len(snail_map) - 1
+     last_column = len(snail_map[0]) - 1
     
     while not len(result) == final_length:
     
